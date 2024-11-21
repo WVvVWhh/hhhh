@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unityProjs\\Converter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECDFA15-E573-EAEC-0B9D-912C7063A9E9}|Assembly-CSharp.csproj|d:\\unityprojs\\converter\\assets\\scripts\\webrequestshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECDFA15-E573-EAEC-0B9D-912C7063A9E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\webrequestshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECDFA15-E573-EAEC-0B9D-912C7063A9E9}|Assembly-CSharp.csproj|D:\\unityProjs\\Converter\\assets\\scripts\\currencycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECDFA15-E573-EAEC-0B9D-912C7063A9E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\currencycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECDFA15-E573-EAEC-0B9D-912C7063A9E9}|Assembly-CSharp.csproj|D:\\unityProjs\\Converter\\assets\\scripts\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECDFA15-E573-EAEC-0B9D-912C7063A9E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECDFA15-E573-EAEC-0B9D-912C7063A9E9}|Assembly-CSharp.csproj|D:\\unityProjs\\Converter\\assets\\scripts\\dependenciesinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECDFA15-E573-EAEC-0B9D-912C7063A9E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dependenciesinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECDFA15-E573-EAEC-0B9D-912C7063A9E9}|Assembly-CSharp.csproj|D:\\unityProjs\\Converter\\assets\\scripts\\viewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECDFA15-E573-EAEC-0B9D-912C7063A9E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\viewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewManager.cs",
+              "DocumentMoniker": "D:\\unityProjs\\Converter\\Assets\\Scripts\\ViewManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ViewManager.cs",
+              "ToolTip": "D:\\unityProjs\\Converter\\Assets\\Scripts\\ViewManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ViewManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:01:48.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependenciesInstaller.cs",
+              "DocumentMoniker": "D:\\unityProjs\\Converter\\Assets\\Scripts\\DependenciesInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DependenciesInstaller.cs",
+              "ToolTip": "D:\\unityProjs\\Converter\\Assets\\Scripts\\DependenciesInstaller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DependenciesInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:00:49.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebRequestsHandler.cs",
+              "DocumentMoniker": "D:\\unityProjs\\Converter\\Assets\\Scripts\\WebRequestsHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WebRequestsHandler.cs",
+              "ToolTip": "D:\\unityProjs\\Converter\\Assets\\Scripts\\WebRequestsHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WebRequestsHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:49:58.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyCalculator.cs",
+              "DocumentMoniker": "D:\\unityProjs\\Converter\\Assets\\Scripts\\CurrencyCalculator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CurrencyCalculator.cs",
+              "ToolTip": "D:\\unityProjs\\Converter\\Assets\\Scripts\\CurrencyCalculator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CurrencyCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:00:26.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "D:\\unityProjs\\Converter\\Assets\\Scripts\\MainView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainView.cs",
+              "ToolTip": "D:\\unityProjs\\Converter\\Assets\\Scripts\\MainView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:24:33.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
